@@ -1,0 +1,7 @@
+{
+    "apps": [{
+        "name": "moba-admin",
+        "script": "npm",
+        "args": "start"
+    }]
+}
