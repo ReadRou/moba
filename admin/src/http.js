@@ -2,7 +2,7 @@ import axios from 'axios'
 import Vue from 'vue'
 
 const http = axios.create({
-  baseURL: 'http://localhost:3000/admin/api'
+  baseURL: 'http://39.108.13.204:5001/admin/api'
 })
 
 http.interceptors.response.use(res => {
