@@ -1,4 +1,4 @@
-# 【全栈之巅】Node.js + Vue.js 全栈开发王者荣耀手机端官网和管理后台
+# Node.js + Vue.js 王者荣耀后台管理demo
 > https://github.com/ReadRou/moba
 
 ## 一、 入门
